@@ -1,0 +1,2 @@
+iftar - <il> İftar'a Kalan Süre
+sahur - <il> Sahur'a Kalan Süre
